@@ -33,6 +33,8 @@ The system uses the following key tables:
 
 ## Getting Started
 
+0
+
 1. Import database:
 
 ````bash
