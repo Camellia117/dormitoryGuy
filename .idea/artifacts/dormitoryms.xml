@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dormitoryms">
+    <output-path>$PROJECT_DIR$/out/artifacts/dormitoryms</output-path>
+    <root id="archive" name="dormitoryms.war" />
+  </artifact>
+</component>
